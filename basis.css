@@ -1,0 +1,44 @@
+#wrap {
+      width: 760px;
+      margin: 0 auto
+      text-align: left;
+}
+#header {
+       folat: left;
+       width: 760px
+       height: 145px;
+       text-align: right,
+       border-top: 1px solid #999
+}
+#navigation {
+       float: left;
+       width:760px;
+       height: 40px;
+       border-bottom: 1px solid
+       border-top: 1px solid #999;
+}
+#content {
+       float: left;
+       height: 400px; /* Bereich ist leer*/
+       width: 559px;
+       border-right: 1px solid #999
+}
+#sidebar {
+       float: left;
+       height: 400px;
+       width: 200px;
+       top: 0;
+}
+body   {
+        font-size: 85%;
+        font-family: Verdana, Arial
+        text-aligin: center; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+      margin: 20px;
+}
+
+p {
+      magrin: 15px 20px;
+}
